@@ -18,7 +18,7 @@ function respond() {
   }
 }
 
-function postMessage() {
+function postMessage(What do you think?) {
   var botResponse, options, body, botReq;
 
   botResponse = cool();
